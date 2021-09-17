@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AlexNewsReactApp/static/css/main.2d71ed59.chunk.css",
+    "main.js": "/AlexNewsReactApp/static/js/main.81e239b1.chunk.js",
+    "main.js.map": "/AlexNewsReactApp/static/js/main.81e239b1.chunk.js.map",
+    "runtime-main.js": "/AlexNewsReactApp/static/js/runtime-main.1fed5e48.js",
+    "runtime-main.js.map": "/AlexNewsReactApp/static/js/runtime-main.1fed5e48.js.map",
+    "static/js/2.c125cd63.chunk.js": "/AlexNewsReactApp/static/js/2.c125cd63.chunk.js",
+    "static/js/2.c125cd63.chunk.js.map": "/AlexNewsReactApp/static/js/2.c125cd63.chunk.js.map",
+    "static/js/3.72163ce3.chunk.js": "/AlexNewsReactApp/static/js/3.72163ce3.chunk.js",
+    "static/js/3.72163ce3.chunk.js.map": "/AlexNewsReactApp/static/js/3.72163ce3.chunk.js.map",
+    "index.html": "/AlexNewsReactApp/index.html",
+    "static/css/main.2d71ed59.chunk.css.map": "/AlexNewsReactApp/static/css/main.2d71ed59.chunk.css.map",
+    "static/js/2.c125cd63.chunk.js.LICENSE.txt": "/AlexNewsReactApp/static/js/2.c125cd63.chunk.js.LICENSE.txt",
+    "static/media/spinner.385774bd.gif": "/AlexNewsReactApp/static/media/spinner.385774bd.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fed5e48.js",
+    "static/js/2.c125cd63.chunk.js",
+    "static/css/main.2d71ed59.chunk.css",
+    "static/js/main.81e239b1.chunk.js"
+  ]
+}
